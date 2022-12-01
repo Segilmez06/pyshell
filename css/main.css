@@ -1,0 +1,19 @@
+* {
+    font-family: 'Open Sans', 'Segoe UI' sans-serif;
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #000;
+}
+
+#terminal {
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
