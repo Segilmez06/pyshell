@@ -1,2 +1,2 @@
 # pyshell
-Simple Python interpreter runs on browser using XTerm.js and Pyodide
+PYShell is a simple Python interpreter runs on browser via WebAssembly. Uses XTerm.js for frontend and Pyodide for runtime.
